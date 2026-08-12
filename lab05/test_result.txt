@@ -1,0 +1,19 @@
+=== KET QUA KIEM TRA KET NOI CSDL ===
+
+1. Kiem tra ket noi...
+   [OK] Ket noi CSDL thanh cong!
+
+2. Kiem tra du lieu san pham...
+   [OK] Tim thay 4 san pham:
+      - Ban phim Logitech K120 | Gia: 180000.00 | SL: 50
+      - Chuot khong day Rapoo | Gia: 220000.00 | SL: 40
+      - USB Kingston 32GB | Gia: 150000.00 | SL: 100
+      - Tai nghe Sony Basic | Gia: 350000.00 | SL: 30
+
+3. Kiem tra du lieu khach hang...
+   [OK] Tim thay 3 khach hang:
+      - Nguyen Van An | SDT: 0912345678 | DC: Ha Noi
+      - Tran Thi Binh | SDT: 0987654321 | DC: Bac Ninh
+      - Le Van Cuong | SDT: 0901111222 | DC: Hai Duong
+
+=== TAT CA KIEM TRA HOAN TAT ===
